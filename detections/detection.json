@@ -24,7 +24,7 @@
         "alg1_name": "Algorithmus A",
         "alg2_name": "Algorithmus B",
         "alg_name": "Detektionsalgorithmus",
-        "yaxis_rate": "Detektionsrate TEST",
+        "yaxis_rate": "Detektionsrate",
         "yaxis_count": "Detektionen",
         "tickformat": "%d %b",
         "hoverformat": "%d %B %Y",
