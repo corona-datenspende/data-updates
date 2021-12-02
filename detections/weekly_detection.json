@@ -6,7 +6,7 @@
     "new_users": 121,
     "labels": {
       "en": {
-        "title_overall": "National Fever Detection Based on Resting Heart Rate Signals and Step Count",
+        "title_overall": "Test National Fever Detection Based on Resting Heart Rate Signals and Step Count",
         "title": "Fever Detection Based on Resting Heart Rate Signals and Step Count",
         "alg1_name": "Algorithm A",
         "alg2_name": "Algorithm B",
